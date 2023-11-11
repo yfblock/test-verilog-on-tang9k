@@ -1,4 +1,4 @@
-VERILOG_FILE := rtl/Testspinal.v
+VERILOG_FILE := src/*.v
 BITSTREAM_FILE := impl/pnr/Testspinal.fs
 REPORT_FILE := impl/pnr/Testspinal.rpt.txt
 

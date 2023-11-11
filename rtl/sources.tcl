@@ -1,0 +1,1 @@
+add_file -type verilog "src/Testspinal.v"

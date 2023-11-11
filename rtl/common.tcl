@@ -2,7 +2,7 @@
 # A simple gw_sh build script
 # by andelf
 
-add_file -type verilog "rtl/Testspinal.v"
+# add_file -type verilog "rtl/Testspinal.v"
 add_file -type cst "rtl/tang-nano-9k.cst"
 
 # NOTE: Tang Nano 9k is a GW1NR-9C device! not GW1NR-9
